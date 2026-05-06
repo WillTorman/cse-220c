@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\school\\cse220c\\week1\\task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDFFE73-0220-42B9-8B06-DCCBD5177A4A}|task1.vcxproj|C:\\dev\\school\\cse220c\\week1\\task1\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDFFE73-0220-42B9-8B06-DCCBD5177A4A}|task1.vcxproj|solutionrelative:task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task1.cpp",
+              "DocumentMoniker": "C:\\dev\\school\\cse220c\\week1\\task1\\task1.cpp",
+              "RelativeDocumentMoniker": "task1.cpp",
+              "ToolTip": "C:\\dev\\school\\cse220c\\week1\\task1\\task1.cpp",
+              "RelativeToolTip": "task1.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T22:24:31.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
